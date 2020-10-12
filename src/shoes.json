@@ -1,0 +1,58 @@
+{
+    "air-jordan-3-valor-blue": {
+      "name": "VALOUR BLUE",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$140" ,
+        "id" : "01"
+    },
+    "jordan-mars-270-london": {
+      "name": "JORDAN MARS 270",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$170" ,
+        "id" : "02"
+    },
+    "air-jordan-1-zoom-racer-blue": {
+      "name": "RACER BLUE",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$125" ,
+        "id" : "03"
+    },
+    "air-jordan-2-valor-blue1": {
+      "name": "VALOUR BLUE",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$180" ,
+        "id" : "04"
+    },
+    "jordan-mars-70-london2": {
+      "name": "JORDAN MARS 270",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$110" ,
+        "id" : "05"
+    },
+    "air-jordan-2-zoom-racer-blue3": {
+      "name": "RACER BLUE",
+      "img":
+        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "price" : "$130" ,
+        "id" : "06"
+    },
+    "sketcher-001": {
+      "name": "Sketcher Shoes",
+      "img":
+        "https://www.skechers.com/dw/image/v2/BDCN_PRD/on/demandware.static/-/Library-Sites-SkechersSharedLibrary/default/dwdcaa39ce/images/Landing/men/SKX44314-2020-New-Site-Q2-Content-Grid_M_Athletic-Sneakers_232032-BLOR.jpg?sw=356",
+        "price" : "$140" ,
+        "id" : "07"
+    },
+    "casual-002": {
+      "name": "Casual Shoes",
+      "img":
+        "https://cdn.shopify.com/s/files/1/0106/6853/9961/products/shoes-blue_590x_89b30b9a-e961-4a15-afc7-203cbdce0631.jpeg?v=1529685813",
+        "price" : "$135" ,
+        "id" : "08"
+    }
+  } 
